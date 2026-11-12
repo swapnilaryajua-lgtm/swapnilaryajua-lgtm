@@ -123,8 +123,8 @@ I build AI-powered systems that protect people online: scanners, detectors and m
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swapnilaryajua-lgtm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=e6edf3&include_all_commits=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilaryajua-lgtm&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="top languages"/>
+<img src="https://raw.githubusercontent.com/swapnilaryajua-lgtm/swapnilaryajua-lgtm/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="48%"/>
+<img src="https://raw.githubusercontent.com/swapnilaryajua-lgtm/swapnilaryajua-lgtm/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" width="48%"/>
 
 <br/>
 
@@ -139,7 +139,7 @@ I build AI-powered systems that protect people online: scanners, detectors and m
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnilaryajua-lgtm&bg_color=0d1117&color=8b949e&line=e6edf3&point=ffffff&area=true&area_color=30363d&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/swapnilaryajua-lgtm/swapnilaryajua-lgtm/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="60%"/>
 
 </div>
 
